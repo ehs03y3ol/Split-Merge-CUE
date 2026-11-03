@@ -1,0 +1,14 @@
+f:\Split-Merge-CUE\SplitMergeCue\bin\Release\net10.0\SplitMergeCue.exe
+f:\Split-Merge-CUE\SplitMergeCue\bin\Release\net10.0\SplitMergeCue.deps.json
+f:\Split-Merge-CUE\SplitMergeCue\bin\Release\net10.0\SplitMergeCue.runtimeconfig.json
+f:\Split-Merge-CUE\SplitMergeCue\bin\Release\net10.0\SplitMergeCue.dll
+f:\Split-Merge-CUE\SplitMergeCue\bin\Release\net10.0\SplitMergeCue.pdb
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\SplitMergeCue.GeneratedMSBuildEditorConfig.editorconfig
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\SplitMergeCue.AssemblyInfoInputs.cache
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\SplitMergeCue.AssemblyInfo.cs
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\SplitMergeCue.csproj.CoreCompileInputs.cache
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\SplitMergeCue.dll
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\refint\SplitMergeCue.dll
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\SplitMergeCue.pdb
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\SplitMergeCue.genruntimeconfig.cache
+f:\Split-Merge-CUE\SplitMergeCue\obj\Release\net10.0\ref\SplitMergeCue.dll
