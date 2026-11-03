@@ -74,7 +74,7 @@ SplitMergeCue.exe "Game.cue" -o "D:\Converted\Game" --delete-originals
 #### Build Commands
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Split-Merge-CUE.git
+git clone https://github.com/ehs03y3ol/Split-Merge-CUE.git
 cd Split-Merge-CUE
 
 # Build Release binaries
@@ -184,7 +184,7 @@ SplitMergeCue.exe "Juego.cue" -o "D:\Convertidos\Juego" --delete-originals
 #### Comandos de Compilación
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/Split-Merge-CUE.git
+git clone https://github.com/ehs03y3ol/Split-Merge-CUE.git
 cd Split-Merge-CUE
 
 # Compilar en modo Release
