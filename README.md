@@ -196,4 +196,4 @@ El ejecutable compilado se generará en `SplitMergeCue/bin/Release/net10.0/Split
 
 ## 📄 License / Licencia
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).
+This project is released Free of licenses..
